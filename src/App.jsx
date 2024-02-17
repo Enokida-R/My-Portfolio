@@ -8,7 +8,7 @@ function App() {
     const data = Object.fromEntries(formData.entries());
     
 try{
-    const response = await fetch('http://localhost:3000/api/send-email', {
+    const response = await fetch('https://mail-send-23un.onrender.com/api/send-email', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
