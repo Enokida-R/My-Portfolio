@@ -280,19 +280,15 @@ function App() {
             </div>
 
             <h2>nodejs</h2>
-            <div className='shaow bg-yellow-100 mt-2 w-full'>
-              <div className='bg-yellow-600 text-xs leading-none text-center text-black' style={{width: "40%"}}>40%</div>
+            <div className='shaow bg-green-100 mt-2 w-full'>
+              <div className='bg-green-600 text-xs leading-none text-center text-black' style={{width: "40%"}}>40%</div>
             </div>
 
-            <h2>javascript</h2>
-            <div className='shaow bg-yellow-100 mt-2 w-full'>
-              <div className='bg-yellow-600 text-xs leading-none text-center text-black' style={{width: "80%"}}>80%</div>
+            <h2>react</h2>
+            <div className='shaow bg-blue-100 mt-2 w-full'>
+              <div className='bg-blue-600 text-xs leading-none text-center text-black' style={{width: "20%"}}>20%</div>
             </div>
 
-            <h2>javascript</h2>
-            <div className='shaow bg-yellow-100 mt-2 w-full'>
-              <div className='bg-yellow-600 text-xs leading-none text-center text-black' style={{width: "80%"}}>80%</div>
-            </div>
           </div>
         </div>
       </div>
